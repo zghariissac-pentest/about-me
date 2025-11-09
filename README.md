@@ -72,10 +72,10 @@ Real-world testing requires written permission and responsible disclosure.
 ---
 
 # Contact
-- Email: []  
-- LinkedIn: []  
+- Email: [zghariissac@gmail.com]  
+- LinkedIn: []
 - TryHackMe []  
 
 ---
 
-*Last updated: [2025-11-09]
+Last updated: [2025-11-09]
