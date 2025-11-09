@@ -4,7 +4,7 @@ profile, projects and lab-based cybersecurity work
 # 🛡️ [issac zghari] — Ethical Penetration Tester & Security Researcher
 
 
-18 y/o ethical penetration tester from Algeria | Focused on network security, system hardening, and controlled research.  
+18 y/o ethical penetration tester and Self-taught cybersecurity researcher driven by curiosity and a deep commitment to continuous learning and problem-solving from Algeria  | Focused on network security, system hardening, and controlled research.  
 Performing lab-authorized assessments, documenting methodology, and producing actionable insights.
 
 ---
