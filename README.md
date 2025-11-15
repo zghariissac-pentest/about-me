@@ -1,64 +1,59 @@
 # about-me
-profile, projects and lab-based cybersecurity work 
+# ZGHARI ISSAC , a cyber security researcher 
 
-# 🛡️ [issac zghari] — Ethical Penetration Tester & Security Researcher
 
- > 18 y/o ethical penetration tester and self-taught cybersecurity researcher from Algeria , driven by curiosity, persistence, and a deep passion for understanding how systems really work.
-Focused on network security, system hardening, and safe, controlled research environments.
-I perform authorized lab assessments, document my methodology, and turn findings into clear, actionable insights.
+> 18 y/o early-stage ethical security researcher from Algeria, driven by curiosity and a methodical approach to understanding system behaviors.  
+I focus on learning through controlled lab environments, conceptual risk analysis, and thoughtful documentation of findings.
+
 ---
 
 # About Me
 
- > I explore security concepts and analyze systems responsibly within isolated lab environments.
-My work centers on ethical testing, threat modeling, and developing practical, real-world recommendations.
-Every test is documented carefully , from assumptions and findings to mitigation strategies  to promote learning and responsible disclosure.
+I explore security concepts responsibly within isolated labs, emphasizing understanding over exploitation.  
+My work revolves around conceptual penetration testing, threat modeling, and deriving practical insights that promote learning and safe experimentation.  
+All assessments are documented carefully—from initial assumptions to findings and mitigation strategies—to encourage responsible security research and disclosure.
+
 ---
 
 # Focus Areas
-- Ethical Penetration Testing (conceptual attack paths, risk analysis)  
+- Conceptual Penetration Testing & Risk Analysis  
 - Network Security & Architecture (segmentation, monitoring, traffic analysis)  
 - System Hardening & Virtualization Security  
 - Threat Modeling & Post-Incident Analysis  
 
-
 ---
 
 # Tools & Technologies
-
+*(Lab-oriented, conceptual tools and frameworks for research)*
 
 ---
 
 # Projects / Research
 
+### Project 1: [Conceptual Lab Assessment – Network Segmentation Study]
 
-### Project 1: []
+### Project 2: [System Hardening & Virtualization Isolation Research]
 
-
-### Project 2: []
-
-
-### Project 3: []
-
+### Project 3: [Threat Modeling & Attack Surface Analysis]
 
 ---
 
 # Writeups / Documentation
-
+Detailed documentation of lab setups, methodologies, and sanitized findings to illustrate research processes and security insights.
 
 ---
 
 # Ethics & Safety
-All work is **authorized, lab-only, and research-oriented**.  
-Repositories contain sanitized evidence and conceptual demonstrations only.  
-Real-world testing requires written permission and responsible disclosure.
+All work is **authorized, lab-only, and research-focused**.  
+Repositories contain sanitized evidence and conceptual demonstrations.  
+Real-world testing is performed **only with explicit permission** and follows responsible disclosure practices.
 
 ---
 
 # How to Read My Repos
-- Start with top-level README for scope and methodology.  
-- Check ThreatModel.md / Methodology.md for assumptions and attacker capabilities.  
-- Findings-Summary.md contains actionable recommendations.  
+- Start with the top-level README for scope and methodology.  
+- Check ThreatModel.md / Methodology.md for assumptions and research context.  
+- Findings-Summary.md contains insights and conceptual recommendations.  
 - Appendices may include diagrams, logs, or sanitized pcap snippets.
 
 ---
@@ -72,9 +67,9 @@ Real-world testing requires written permission and responsible disclosure.
 
 # Contact
 - Email: [zghariissac@gmail.com]  
-- LinkedIn: []
-- TryHackMe []  
+- LinkedIn: []  
+- TryHackMe: []  
 
 ---
 
-Last updated: [2025-11-09]
+*Last updated: 2025-11-09*
