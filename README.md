@@ -1,75 +1,53 @@
-# about-me
-# ZGHARI ISSAC , a cyber security researcher 
+ZGHARI ISSAC , messing around with security since forever
 
+18 y/o cyber explorer from Algeria.
+I’m not claiming to be a pro , I just like figuring out how stuff works, breaking it in safe ways, and learning what actually happens when systems get weird.
 
-> 18 y/o early-stage ethical security researcher from Algeria, driven by curiosity and a methodical approach to understanding system behaviors.  
-I focus on learning through controlled lab environments, conceptual risk analysis, and thoughtful documentation of findings.
-
----
+Most of my time is spent inside labs I build for myself, poking, testing, breaking, and seeing what sticks. I write down what I notice so it’s not just chaos , but I like it messy enough that it still feels real.
 
 # About Me
 
-I explore security concepts responsibly within isolated labs, emphasizing understanding over exploitation.  
-My work revolves around conceptual penetration testing, threat modeling, and deriving practical insights that promote learning and safe experimentation.  
-All assessments are documented carefully—from initial assumptions to findings and mitigation strategies—to encourage responsible security research and disclosure.
+I’m drawn to systems, networks, and weird setups.
+I experiment, play with ideas, and see patterns. Sometimes it’s just for fun, sometimes it sparks a bigger insight.
 
----
+I care about:
 
-# Focus Areas
-- Conceptual Penetration Testing & Risk Analysis  
-- Network Security & Architecture (segmentation, monitoring, traffic analysis)  
-- System Hardening & Virtualization Security  
-- Threat Modeling & Post-Incident Analysis  
+understanding behaviors
 
----
+documenting thoughts clearly, even if the experiment fails
 
-# Tools & Technologies
-*(Lab-oriented, conceptual tools and frameworks for research)*
+safe and responsible exploration , real-world systems get touched only with permission
 
----
+Basically, I like to tinker, figure things out, and share what I’ve learned without pretending it’s polished.
 
-# Projects / Research
+What I Do (in short)
 
-### Project 1: [Conceptual Lab Assessment – Network Segmentation Study]
+Think of it as curiosity + experimentation + notes.
+I look at systems, networks, virtualization, risks, patterns, and sometimes random weird things that catch my eye.
+It’s not a rigid framework, more like “here’s what I found, this is what it means, maybe you can use it too.”
 
-### Project 2: [System Hardening & Virtualization Isolation Research]
+Writeups & Notes
 
-### Project 3: [Threat Modeling & Attack Surface Analysis]
+I document experiments, thoughts, failures, and little insights that pop up along the way.
+Everything is cleaned enough to share, but I keep the raw vibe, so it’s more like reading my lab notebook than a corporate report.
 
----
+Ethics
 
-# Writeups / Documentation
-Detailed documentation of lab setups, methodologies, and sanitized findings to illustrate research processes and security insights.
+All of it is safe and contained.
+If something touches the outside world, it’s with permission and responsibility.
+Otherwise, it’s all ideas, experiments, and learning.
 
----
+# Proof / How to Check My Work
 
-# Ethics & Safety
-All work is **authorized, lab-only, and research-focused**.  
-Repositories contain sanitized evidence and conceptual demonstrations.  
-Real-world testing is performed **only with explicit permission** and follows responsible disclosure practices.
+GitHub repos (this profile)
 
----
+Screenshots, diagrams, notes
 
-# How to Read My Repos
-- Start with the top-level README for scope and methodology.  
-- Check ThreatModel.md / Methodology.md for assumptions and research context.  
-- Findings-Summary.md contains insights and conceptual recommendations.  
-- Appendices may include diagrams, logs, or sanitized pcap snippets.
+Sometimes PDFs summarizing what I’ve learned
 
----
-
-# Evidence & Verification
-- GitHub repositories (this profile)  
-- Lab notes / sanitized PDFs summarizing projects  
-- Screenshots of lab setups or configurations
-
----
 
 # Contact
-- Email: [zghariissac@gmail.com]  
-- LinkedIn: []  
-- TryHackMe: []  
+Email: zghariissac@gmail.com
+Contact
 
----
-
-*Last updated: 2025-11-09*
+Email: zghariissac@gmail.com
