@@ -48,6 +48,4 @@ Sometimes PDFs summarizing what I’ve learned
 
 # Contact
 Email: zghariissac@gmail.com
-Contact
 
-Email: zghariissac@gmail.com
