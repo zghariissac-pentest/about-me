@@ -1,4 +1,4 @@
-ZGHARI ISSAC , messing around with security since forever
+# ZGHARI ISSAC , messing around with security since forever
 
 18 y/o cyber explorer from Algeria.
 I’m not claiming to be a pro , I just like figuring out how stuff works, breaking it in safe ways, and learning what actually happens when systems get weird.
